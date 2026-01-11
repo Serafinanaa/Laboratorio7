@@ -1,2 +1,2 @@
 # Laboratorio7
-Excepção
+Excepções
